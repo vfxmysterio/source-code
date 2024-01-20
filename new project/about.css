@@ -1,0 +1,75 @@
+body {
+    background-color: black;
+    min-height: 80vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+header {
+    width: 100%;
+    background: transparent;
+    padding: 10px;
+    display: flex;
+}
+
+.navbar a {
+    margin: 0px;
+    text-decoration: none;
+    color: aliceblue;
+    padding-top: 10px;
+}
+
+.navbar a {
+    margin: 20px 30px;
+}
+
+.navbar a:hover {
+    color: coral;
+}
+
+.search {
+    height: 28px;
+    width: 20%;
+    float: right;
+    background: transparent;
+    margin-left: 396px;
+    margin-top: -17px;
+
+}
+
+.navbar input {
+    border-radius: 15px;
+    height: 22px;
+    width: 170px;
+}
+
+h2 {
+    color: aliceblue;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    font-size: xx-large;
+}
+
+p {
+    color: aliceblue;
+    text-align: center;
+    font-size: larger;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    height: 90px;
+    color: aliceblue;
+    text-align: center;
+}
+
+footer .a {
+    margin: 25px;
+}
+
+p {
+    margin-top: -15px;
+}

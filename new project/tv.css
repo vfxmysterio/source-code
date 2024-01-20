@@ -1,0 +1,75 @@
+body {
+    background-color: black;
+    min-height: 80vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+header {
+    width: 100%;
+    background: transparent;
+    padding: 10px;
+    display: flex;
+}
+
+.navbar a {
+    margin: 0px;
+    text-decoration: none;
+    color: aliceblue;
+    padding-top: 10px;
+}
+
+.navbar a {
+    margin: 20px 30px;
+}
+
+.navbar a:hover {
+    color: coral;
+}
+
+.search {
+    height: 28px;
+    width: 20%;
+    float: right;
+    background: transparent;
+    margin-left: 396px;
+    margin-top: -17px;
+
+}
+
+.navbar input {
+    border-radius: 15px;
+    height: 22px;
+    width: 170px;
+}
+
+.main {
+    height: 40vh;
+    width: 20%;
+    float: left;
+    cursor: pointer;
+}
+
+.text {
+    height: 40vh;
+    opacity: 100%;
+    width: 75%;
+    float: left;
+    color: aliceblue;
+    background-color: darkgray;
+    margin: 2px;
+}
+
+h2 {
+    text-align: left;
+    font-style: italic;
+    margin: 20px;
+    cursor: pointer;
+}
+
+p {
+    text-align: left;
+    margin-left: 15px;
+    font-size: large;
+}
